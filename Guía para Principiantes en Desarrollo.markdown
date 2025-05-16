@@ -760,6 +760,7 @@ print(cuenta._CuentaBancaria__saldo)  # Salida: 1300.0 (no recomendado)
 ## Polimorfismo en Python
 
 ### ¿Qué es el polimorfismo?
+![POLIMORFISMO](https://github.com/GHOSTrrxX/CHECKPOINT6/blob/main/polimorfismo.png)
 
 El **polimorfismo** es un concepto de la programación orientada a objetos que permite que objetos de diferentes clases sean tratados como objetos de una clase común, y que un mismo método o función pueda comportarse de manera diferente dependiendo del tipo de objeto con el que se llame. El término "polimorfismo" significa "muchas formas", reflejando que una misma operación puede tener diferentes implementaciones.
 
@@ -1041,7 +1042,7 @@ for doc in coleccion.find():
 ---
 
 ## ¿Qué es una API?
-
+![SQL O NoSQL](https://github.com/GHOSTrrxX/CHECKPOINT6/blob/main/API.jpg)
 ### ¿Qué es una API?
 
 Una **API** (Interfaz de Programación de Aplicaciones, por sus siglas en inglés: *Application Programming Interface*) es un conjunto de reglas y herramientas que permite que diferentes aplicaciones o sistemas se comuniquen entre sí. Actúa como un intermediario que permite a una aplicación solicitar datos o servicios de otra, sin necesidad de entender los detalles internos de cómo funciona el sistema proveedor.
@@ -1131,9 +1132,8 @@ El clima en Bogotá es nubes dispersas con una temperatura de 15°C
 
 ---
 
-## ¿Qué es Postman?
-
 ### ¿Qué es Postman?
+![Postman](https://github.com/GHOSTrrxX/CHECKPOINT6/blob/main/postman.png)
 
 **Postman** es una herramienta utilizada por desarrolladores para **diseñar, probar y documentar APIs**. Es una plataforma que simplifica el proceso de enviar solicitudes a APIs, inspeccionar respuestas, automatizar pruebas y colaborar en proyectos de desarrollo. Postman es especialmente útil para trabajar con APIs REST, aunque también soporta otros tipos como GraphQL o SOAP.
 
