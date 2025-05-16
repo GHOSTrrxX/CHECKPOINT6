@@ -24,8 +24,6 @@ Este documento está diseñado para personas que están comenzando en el mundo d
 
 ## Clases en Python
 
-*(Contenido previo sobre clases, mantenido sin cambios)*
-
 ### ¿Qué son las clases en Python?
 
 Una **clase** en Python es una plantilla o molde que define las características (atributos) y comportamientos (métodos) que tendrá un objeto. Las clases son un pilar fundamental de la **programación orientada a objetos (POO)**, un enfoque que organiza el código en "entidades" reutilizables y lógicas.
@@ -166,7 +164,7 @@ El constructor `__init__` se invoca inmediatamente después de que se crea un ob
 - **Personalización**: Facilita pasar argumentos al crear un objeto para que cada instancia tenga datos únicos.
 - **Automatización**: Al ejecutarse automáticamente, asegura que el objeto esté listo para usar sin necesidad de llamar métodos adicionales manualmente.
 
-### ¿Para qué sirve `__init__`?
+### ¿Para qué sirve `__init__`??
 
 - **Definir atributos del objeto**: Establece valores para las variables que pertenecen a cada objeto (por ejemplo, el nombre de un estudiante o el color de un coche).
 - **Establecer valores predeterminados**: Puede definir valores iniciales para atributos si no se proporcionan argumentos.
