@@ -916,6 +916,8 @@ Esto se logra porque las clases definen métodos especiales (como `__len__` o `_
 
 ## MongoDB: ¿SQL o NoSQL?
 
+![SQL O NoSQL](https://github.com/GHOSTrrxX/CHECKPOINT6/blob/main/NO%20SQL.png)
+
 ### ¿Es MongoDB una base de datos SQL o NoSQL?
 
 **MongoDB es una base de datos NoSQL**. A diferencia de las bases de datos SQL (como MySQL, PostgreSQL o SQL Server), que almacenan datos en tablas con filas y columnas siguiendo un esquema rígido, MongoDB utiliza un modelo **orientado a documentos** donde los datos se almacenan en documentos similares a JSON (en formato BSON, una variante binaria de JSON).
